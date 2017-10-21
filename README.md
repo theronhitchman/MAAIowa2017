@@ -6,6 +6,13 @@ October 21, 2017 at Loras College in Dubuque, IA.
 content by Theron J Hitchman
 code based on the reveal.js setup
 
+Some of these files are lifted from other, related, presentations.
+see repositories:
+  - theronhitchman/MAAIowa2017
+  - theronhitchman/apr16colloquium
+  - theronhitchman/cfemi17
+  - genjohnson/naive_bridge_presentation
+
 ----
 ----
 
